@@ -9,10 +9,15 @@ I chose the Research theme for my final project using population, income, and ho
 ### Jupiter Notebooks
 
 ComputationalEssay.ipynb --> Computational essay with code
+
 FinalCode.ipynb --> Full code without computational essay. 
+
 requirements.txt --> package requirements file
+
 lda_000b16a_e.shp --> municipal boundaries shapefile
+
 qr1nRk750yxtnb_data.csv ---> Population, Income, and Housing data
+
 qr1nRk750yxtnb_header.txt ---> Population, Income, and Housing header file
 
 #### Population, Income, and Housing Data Directory
