@@ -4,7 +4,7 @@
 
 I chose the Research theme for my final project using population, income, and housing data from the 2016 Canadian Census. The link for the interatice session is provided below:
 
-
+https://notebooks.gesis.org/binder/jupyter/user/aplcrumble-geog464finalproject-vyaj62fm/lab
 
 ### Jupiter Notebooks
 
