@@ -1,4 +1,4 @@
-# GEOG464FinalProject<<<<<<< HEAD
+# **GEOG464 Final Project**
 
 ## Researcher
 
