@@ -1,0 +1,26 @@
+2016 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - Population and dwelling counts / Population, 2016
+COL2 - Dwelling characteristics / Average household size
+COL3 - Income - Total Sex / In low income based on the Low-income measure, after tax (LIM-AT)
+COL4 - Housing - Total Sex / Total - Private households by tenure - 25% sample data
+COL5 - Housing - Total Sex / Total - Private households by tenure - 25% sample data / Owner
+COL6 - Housing - Total Sex / Total - Private households by tenure - 25% sample data / Renter
+COL7 - Housing - Total Sex / Average number of rooms per dwelling
+COL8 - Housing - Total Sex / Total - Private households by housing suitability - 25% sample data
+COL9 - Housing - Total Sex / Total - Private households by housing suitability - 25% sample data / Suitable
+COL10 - Housing - Total Sex / Total - Private households by housing suitability - 25% sample data / Not suitable
+COL11 - Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data
+COL12 - Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data / Only regular maintenance or minor repairs needed
+COL13 - Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data / Major repairs needed
+COL14 - Housing - Total Sex / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data
+COL15 - Housing - Total Sex / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending less than 30% of income on shelter costs
+COL16 - Housing - Total Sex / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending 30% or more of income on shelter costs
+COL17 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data
+COL18 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / % of owner households with a mortgage
+COL19 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / % of owner households spending 30% or more of its income on shelter costs
+COL20 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Average monthly shelter costs for owned dwellings ($)
+COL21 - Housing - Total Sex / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data
+COL22 - Housing - Total Sex / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / % of tenant households in subsidized housing
+COL23 - Housing - Total Sex / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / % of tenant households spending 30% or more of its income on shelter costs
+COL24 - Housing - Total Sex / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / Average monthly shelter costs for rented dwellings ($)
